@@ -81,3 +81,590 @@ Language: English
 Plot: Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.
 Actors: Will Smith, Alice Braga, Charlie Tahan, Salli Richardson-Whitfield
 Poster: https://images-na.ssl-images-amazon.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+
+log date: 1518851102842
+
+
+log date: 1518851168863
+
+
+log date: 1518851248245
+
+
+artist: Michael Jackson
+album: Scream
+track: undefined
+
+artist: Usher
+album: Looking 4 Myself (Deluxe Version)
+track: undefined
+
+artist: Michael Jackson
+album: Scream
+track: undefined
+
+artist: will.i.am
+album: #willpower (Deluxe)
+track: undefined
+
+artist: High School Musical Cast
+album: High School Musical 3: Senior Year
+track: undefined
+
+artist: Michael Jackson
+album: Scream
+track: undefined
+
+artist: Avenged Sevenfold
+album: Avenged Sevenfold (Explicit Version)
+track: undefined
+
+artist: Asking Alexandria
+album: Stand Up And Scream
+track: undefined
+
+artist: Tiësto
+album: CLUBLIFE, VOL. 5 - CHINA
+track: undefined
+
+artist: Bullet For My Valentine
+album: Scream Aim Fire
+track: undefined
+
+artist: Turnover
+album: Peripheral Vision
+track: undefined
+
+artist: Michael Jackson
+album: Scream
+track: undefined
+
+artist: Michael Jackson
+album: HIStory - PAST, PRESENT AND FUTURE - BOOK I
+track: undefined
+
+artist: Michael Jackson
+album: Scream
+track: undefined
+
+artist: Anna Blue
+album: Silent Scream
+track: undefined
+
+artist: Michael Jackson
+album: Scream
+track: undefined
+
+artist: Misfits
+album: Famous Monsters
+track: undefined
+
+artist: Bullet For My Valentine
+album: Scream Aim Fire
+track: undefined
+
+artist: Asking Alexandria
+album: Stand Up And Scream
+track: undefined
+
+artist: will.i.am
+album: Scream & Shout
+track: undefined
+
+log date: 1518851307512
+
+Tweet sent: Sat Feb 17 03:33:45 +0000 2018
+20
+
+Tweet sent: Sat Feb 17 03:33:38 +0000 2018
+18
+
+Tweet sent: Sat Feb 17 03:33:42 +0000 2018
+19
+
+Tweet sent: Sat Feb 17 03:33:36 +0000 2018
+17
+
+Tweet sent: Sat Feb 17 03:33:32 +0000 2018
+16
+
+Tweet sent: Sat Feb 17 03:33:30 +0000 2018
+15
+
+Tweet sent: Sat Feb 17 03:33:27 +0000 2018
+14
+
+Tweet sent: Sat Feb 17 03:33:24 +0000 2018
+13
+
+Tweet sent: Sat Feb 17 03:33:19 +0000 2018
+12
+
+Tweet sent: Sat Feb 17 03:33:16 +0000 2018
+11
+
+Tweet sent: Sat Feb 17 03:33:13 +0000 2018
+10
+
+Tweet sent: Sat Feb 17 03:33:09 +0000 2018
+9th
+
+Tweet sent: Sat Feb 17 03:33:05 +0000 2018
+8th
+
+Tweet sent: Sat Feb 17 03:33:00 +0000 2018
+7th
+
+Tweet sent: Sat Feb 17 03:32:56 +0000 2018
+6th
+
+Tweet sent: Sat Feb 17 03:32:52 +0000 2018
+5th
+
+Tweet sent: Sat Feb 17 03:32:48 +0000 2018
+Fourth
+
+Tweet sent: Sat Feb 17 03:32:44 +0000 2018
+third
+
+Tweet sent: Sat Feb 17 03:32:39 +0000 2018
+second tweet
+
+Tweet sent: Sat Feb 17 03:32:20 +0000 2018
+Hello
+
+
+log date: 1518851323570
+
+Title: Zoolander
+IMDB Rating: 6.6
+Country: Germany, USA
+Language: English
+Plot: At the end of his career, a clueless fashion model is brainwashed to kill the Prime Minister of Malaysia.
+Actors: Ben Stiller, Owen Wilson, Christine Taylor, Will Ferrell
+Poster: https://images-na.ssl-images-amazon.com/images/M/MV5BODI4NDY2NDM5M15BMl5BanBnXkFtZTgwNzEwOTMxMDE@._V1_SX300.jpg
+
+log date: 1518851331566
+
+Title: I Am Legend
+IMDB Rating: 7.2
+Country: USA
+Language: English
+Plot: Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.
+Actors: Will Smith, Alice Braga, Charlie Tahan, Salli Richardson-Whitfield
+Poster: https://images-na.ssl-images-amazon.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+
+log date: 1518851386743
+
+
+artist: Eminem
+album: The Marshall Mathers LP
+track: undefined
+
+artist: Eminem
+album: Curtain Call (Deluxe)
+track: undefined
+
+artist: Eminem
+album: Curtain Call
+track: undefined
+
+artist: Eminem
+album: The Marshall Mathers LP
+track: undefined
+
+artist: Eminem
+album: Curtain Call
+track: undefined
+
+artist: Rockabye Baby!
+album: Lullaby Renditions of Eminem
+track: undefined
+
+artist: 40 Glocc
+album: I Am Legend
+track: undefined
+
+artist: Can You Flow?
+album: Can You Flow Presents Instrumental Renditions of Eminem's Greatest Hits
+track: undefined
+
+artist: Various Artists
+album: A Tribute To Eminem
+track: undefined
+
+artist: Various Artists
+album: A Tribute To Eminem
+track: undefined
+
+artist: Karaoke Universe
+album: The Way I Am (Karaoke Version) [In the Style of Eminem]
+track: undefined
+
+artist: Karaoke Universe
+album: The Way I Am (Karaoke Version) [In the Style of Eminem]
+track: undefined
+
+artist: Mickey Beat
+album: The Definitive Tribute to Eminem
+track: undefined
+
+artist: The Karaoke Channel
+album: The Karaoke Channel - Sing the Way I Am (Radio Version) Like Eminem
+track: undefined
+
+artist: The Karaoke Channel
+album: The Karaoke Channel - Sing the Way I Am (Radio Version) Like Eminem
+track: undefined
+
+artist: Dubble Trubble
+album: A Tribute To - Eminem vs. Dr. Dre
+track: undefined
+
+artist: Ameritz - Karaoke
+album: Karaoke - Eminem
+track: undefined
+
+artist: Hip Hop All-Stars
+album: A Salute To Eminem
+track: undefined
+
+artist: The Karaoke Machine
+album: The Karaoke Machine Presents - Eminem
+track: undefined
+
+artist: The Tribute Family
+album: An Instrumental Tribute to Eminem
+track: undefined
+
+log date: 1518851398049
+
+
+artist: Michael Jackson
+album: Scream
+track: undefined
+
+artist: Michael Jackson
+album: Scream
+track: undefined
+
+artist: Michael Jackson
+album: Scream
+track: undefined
+
+artist: Michael Jackson
+album: Scream
+track: undefined
+
+artist: Michael Jackson
+album: HIStory - PAST, PRESENT AND FUTURE - BOOK I
+track: undefined
+
+artist: Michael Jackson
+album: Scream
+track: undefined
+
+artist: Michael Jackson
+album: Scream
+track: undefined
+
+artist: Michael Jackson
+album: Scream
+track: undefined
+
+artist: Michael Jackson
+album: Scream
+track: undefined
+
+artist: Michael Jackson
+album: HIStory - PAST, PRESENT AND FUTURE - Book I
+track: undefined
+
+artist: Michael Jackson
+album: Scream
+track: undefined
+
+artist: Michael Jackson
+album: Scream
+track: undefined
+
+artist: Michael Jackson
+album: Scream
+track: undefined
+
+artist: Janet Jackson
+album: Number Ones
+track: undefined
+
+artist: Michael Jackson
+album: BLOOD ON THE DANCE FLOOR/ HIStory In The Mix
+track: undefined
+
+artist: Michael Jackson
+album: Immortal
+track: undefined
+
+artist: Tokyo Café Lounge
+album: Juke Box: Michael Jackson Mix (Greatest 25 Hit Songs)
+track: undefined
+
+artist: Various Artists
+album: Navy Seals: Battle for New Orleans (Original Motion Picture Soundtrack)
+track: undefined
+
+artist: Michael Jackson Tribute Band
+album: Michael Jackson and the Broken Mirror (Michael Jackson Hits Dissolved)
+track: undefined
+
+artist: Ameritz Audio Karaoke
+album: Karaoke - Michael Jackson
+track: undefined
+
+log date: 1518851410370
+
+
+artist: JAY Z
+album: Collision Course (Deluxe Version)
+track: undefined
+
+artist: JAY Z
+album: Collision Course
+track: undefined
+
+artist: Rhythm Spectacle
+album: Keep Running
+track: undefined
+
+artist: Shane Gutta
+album: Jay-Z Diss (99 Problems Fucc U)
+track: undefined
+
+artist: Can You Flow?
+album: Can You Flow? Presents Instrumental Renditions of Jay-Z: Greatest Hits
+track: undefined
+
+artist: Mr.Thr3z
+album: Down Right Thuggin...
+track: undefined
+
+artist: Hip Hop DJs United
+album: Rap Superstar Backing Tracks
+track: undefined
+
+artist: Hip Hop DJs United
+album: Jay-Z Karaoke
+track: undefined
+
+artist: Ameritz Digital Karaoke
+album: 99 Problems (In the Style of Jay Z) [Karaoke Version] - Single
+track: undefined
+
+artist: Ameritz Audio Karaoke
+album: 99 Problems (In the Style of Jay Z) [Karaoke Version] - Single
+track: undefined
+
+artist: Ameritz - Karaoke
+album: Karaoke - Jay Z
+track: undefined
+
+artist: Off The Record Karaoke
+album: 99 Problems (In the Style of Jay-Z) [Karaoke Version]
+track: undefined
+
+artist: Hip Hop Masters
+album: A Salute to Jay-Z
+track: undefined
+
+artist: Hip Hop DJs United
+album: The Ultimate Salute To Jay-Z
+track: undefined
+
+artist: Déjà Vu
+album: A Tribute to Jay Z and Beyonce
+track: undefined
+
+artist: DJ MixMasters
+album: Ultimate Jay Z Tones
+track: undefined
+
+artist: The Karaoke Channel
+album: Stingray Music Karaoke - The Best of Jay-Z
+track: undefined
+
+artist: The Karaoke Channel
+album: The Karaoke Channel - In The Style Of Jay-Z - Vol. 1
+track: undefined
+
+artist: Déjà Vu
+album: A Hip Hop Tribute to Kanye West and Jay-Z
+track: undefined
+
+artist: Ameritz Tribute Tracks
+album: Show Me What You Got - A Tribute to Jay-Z
+track: undefined
+
+log date: 1518851454252
+
+
+artist: J. Cole
+album: 2014 Forest Hills Drive
+track: undefined
+
+artist: J. Cole
+album: 2014 Forest Hills Drive
+track: undefined
+
+artist: J. Cole
+album: 4 Your Eyez Only
+track: undefined
+
+artist: J. Cole
+album: Cole World: The Sideline Story
+track: undefined
+
+artist: J. Cole
+album: 2014 Forest Hills Drive
+track: undefined
+
+artist: J. Cole
+album: 4 Your Eyez Only
+track: undefined
+
+artist: Jeezy
+album: Pressure
+track: undefined
+
+artist: Miguel
+album: War & Leisure
+track: undefined
+
+artist: J. Cole
+album: 2014 Forest Hills Drive
+track: undefined
+
+artist: J. Cole
+album: Born Sinner
+track: undefined
+
+artist: J. Cole
+album: 4 Your Eyez Only
+track: undefined
+
+artist: Jeremih
+album: Late Nights: The Album
+track: undefined
+
+artist: J. Cole
+album: 2014 Forest Hills Drive
+track: undefined
+
+artist: J. Cole
+album: 2014 Forest Hills Drive
+track: undefined
+
+artist: J. Cole
+album: Born Sinner
+track: undefined
+
+artist: Joey Bada$$
+album: ALL-AMERIKKKAN BADA$$
+track: undefined
+
+artist: J. Cole
+album: 4 Your Eyez Only
+track: undefined
+
+artist: J. Cole
+album: 4 Your Eyez Only
+track: undefined
+
+artist: J. Cole
+album: 2014 Forest Hills Drive
+track: undefined
+
+artist: J. Cole
+album: Cole World: The Sideline Story
+track: undefined
+
+log date: 1518851465288
+
+
+artist: Eminem
+album: The Eminem Show (Explicit Version)
+track: undefined
+
+artist: Eminem
+album: Revival
+track: undefined
+
+artist: Eminem
+album: The Eminem Show (Explicit Version)
+track: undefined
+
+artist: Eminem
+album: Curtain Call (Deluxe)
+track: undefined
+
+artist: Eminem
+album: Revival
+track: undefined
+
+artist: Eminem
+album: The Marshall Mathers LP2 (Deluxe)
+track: undefined
+
+artist: Eminem
+album: Recovery
+track: undefined
+
+artist: Eminem
+album: The Marshall Mathers LP
+track: undefined
+
+artist: Eminem
+album: The Eminem Show (Explicit Version)
+track: undefined
+
+artist: Eminem
+album: The Eminem Show (Explicit Version)
+track: undefined
+
+artist: Eminem
+album: Encore (Deluxe)
+track: undefined
+
+artist: Eminem
+album: Recovery
+track: undefined
+
+artist: Eminem
+album: Revival
+track: undefined
+
+artist: Eminem
+album: The Eminem Show (Explicit Version)
+track: undefined
+
+artist: Eminem
+album: Revival
+track: undefined
+
+artist: Eminem
+album: Curtain Call (Deluxe)
+track: undefined
+
+artist: Eminem
+album: Revival
+track: undefined
+
+artist: Akon
+album: Konvicted
+track: undefined
+
+artist: Eminem
+album: Revival
+track: undefined
+
+artist: Eminem
+album: Recovery
+track: undefined
