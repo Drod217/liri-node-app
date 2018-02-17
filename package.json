@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Drod217/liri-node-app/issues"
   },
-  "homepage": "https://github.com/Drod217/liri-node-app#readme"
+  "homepage": "https://github.com/Drod217/liri-node-app#readme",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "request": "^2.83.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
 }
