@@ -193,3 +193,87 @@ Tweet sent: Fri Dec 01 21:24:48 +0000 2017
 
 Tweet sent: Wed Nov 29 17:10:36 +0000 2017
 @tylerpruett Moved over to IT. Life is much happier up here. Was getting too hard having to keep pace with others w… https://t.co/iiTU2Br2eM
+
+
+log date: 1518838471110
+
+Tweet sent: Sat Feb 17 03:33:45 +0000 2018
+20
+
+Tweet sent: Sat Feb 17 03:33:42 +0000 2018
+19
+
+Tweet sent: Sat Feb 17 03:33:38 +0000 2018
+18
+
+Tweet sent: Sat Feb 17 03:33:36 +0000 2018
+17
+
+Tweet sent: Sat Feb 17 03:33:32 +0000 2018
+16
+
+Tweet sent: Sat Feb 17 03:33:30 +0000 2018
+15
+
+Tweet sent: Sat Feb 17 03:33:27 +0000 2018
+14
+
+Tweet sent: Sat Feb 17 03:33:24 +0000 2018
+13
+
+Tweet sent: Sat Feb 17 03:33:19 +0000 2018
+12
+
+Tweet sent: Sat Feb 17 03:33:16 +0000 2018
+11
+
+Tweet sent: Sat Feb 17 03:33:13 +0000 2018
+10
+
+Tweet sent: Sat Feb 17 03:33:09 +0000 2018
+9th
+
+Tweet sent: Sat Feb 17 03:33:05 +0000 2018
+8th
+
+Tweet sent: Sat Feb 17 03:33:00 +0000 2018
+7th
+
+Tweet sent: Sat Feb 17 03:32:56 +0000 2018
+6th
+
+Tweet sent: Sat Feb 17 03:32:52 +0000 2018
+5th
+
+Tweet sent: Sat Feb 17 03:32:48 +0000 2018
+Fourth
+
+Tweet sent: Sat Feb 17 03:32:44 +0000 2018
+third
+
+Tweet sent: Sat Feb 17 03:32:39 +0000 2018
+second tweet
+
+Tweet sent: Sat Feb 17 03:32:20 +0000 2018
+Hello
+
+
+log date: 1518840718233
+
+Title: Zoolander
+IMDB Rating: 6.6
+Country: Germany, USA
+Language: English
+Plot: At the end of his career, a clueless fashion model is brainwashed to kill the Prime Minister of Malaysia.
+Actors: Ben Stiller, Owen Wilson, Christine Taylor, Will Ferrell
+Poster: https://images-na.ssl-images-amazon.com/images/M/MV5BODI4NDY2NDM5M15BMl5BanBnXkFtZTgwNzEwOTMxMDE@._V1_SX300.jpg
+
+log date: 1518840741912
+
+Title: I Am Legend
+IMDB Rating: 7.2
+Country: USA
+Language: English
+Plot: Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.
+Actors: Will Smith, Alice Braga, Charlie Tahan, Salli Richardson-Whitfield
+Poster: https://images-na.ssl-images-amazon.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg

@@ -123,7 +123,7 @@ function spotifyInput() {
       type: "input",
       name: "song",
       message: "Enter a song name",
-      default: "The Sign"
+      default: "99 Problems"
     }
   ]).then(function(spotifyUser) {
     spotifyResults(spotifyUser.song)
@@ -214,18 +214,11 @@ function movieInput() {
 
 
 function movieResults(movie) {
-  var url = "http://www.omdbapi.com/?t=" + movie + "&plot=short&r=json"
+  var url = "http://www.omdbapi.com/?t=" + movie + "&y=&plot=short&apikey=trilogy";
 
   request(url, function(error, response, body) {
-    // If the request is successful (i.e. if the response status code is 200)
+    
     if (!error && response.statusCode === 200) {
-      // console.log("Title: " + JSON.parse(body).Title);
-      // console.log("IMDB Rating: " + JSON.parse(body).imdbRating);
-      // console.log("Country: " + JSON.parse(body).Country);
-      // console.log("Language: " + JSON.parse(body).Language);
-      // console.log("Plot: " + JSON.parse(body).Plot);
-      // console.log("Actors: " + JSON.parse(body).Actors);
-      // console.log("Poster: " + JSON.parse(body).Poster);
       var movieOutput = "\nTitle: " + JSON.parse(body).Title + 
       "\nIMDB Rating: " + JSON.parse(body).imdbRating + 
       "\nCountry: " + JSON.parse(body).Country + 
