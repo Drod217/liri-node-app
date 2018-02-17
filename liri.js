@@ -1,5 +1,7 @@
 
-require("dotenv").config();
+var dotenv =require("dotenv").config();
+
+
 
 var keys = require("./keys.js");
 
@@ -83,7 +85,7 @@ function showTweets() {
     access_token_secret: access_token_secret
   });
 
-  var params = {screen_name: 'afordfa'};
+  var params = {screen_name: 'drod2107'};
   client.get('statuses/user_timeline', params, function(error, tweets, response) {
     if (!error) {
 
