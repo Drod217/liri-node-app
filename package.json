@@ -5,6 +5,7 @@
   "main": "keys.js",
   "dependencies": {
     "dotenv": "^5.0.0",
+    "moment": "^2.20.1",
     "request": "^2.83.0",
     "spotify": "^0.3.0",
     "twitter": "^1.7.1"

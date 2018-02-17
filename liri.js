@@ -17,6 +17,10 @@ var spotify = require("spotify");
 var request = require("request");
 var fs = require("fs");
 
+console.log("Spotify id: " + keys.spotifyKeys.id);
+console.log("Spotify secret: " + keys.spotifyKeys.secret);
+
+var itemName = "";
 var source = "";
 var menuArray = ["my-tweets", "spotify-this-song", "movie-this", "do-what-it-says", "exit"];
 
@@ -130,42 +134,71 @@ function spotifyInput() {
   });
 };
 
-
-
-function spotifyResults(song) {
-  console.log(song);
-  spotify.search({type: 'track', query: song}, function(err, data) {
-    if(err) {
-      console.log("Error occurred: " + err);
-      return;
+function spotSong(){
+    if(!itemName){
+        itemName= "The "+"Sign";
     }
-    var results = data.tracks.items.length;
-    fs.appendFile("log.txt", "\n\nlog date: " + Date.now() + "\n", function(err) {
-      // If the code experiences any errors it will log the error to the console.
-      if (err) {
-        return console.log(err);
-      }
-    });  
-    for (var i=-0; i<results; i++) {
-      var spotifyOutput = "\n\nartist: " + data.tracks.items[i].album.artists[0].name +
-      "\nalbum: " + data.tracks.items[i].album.name +
-      "\ntrack: " + console.log("track: " + data.tracks.items[i].name + 
-      "\npreview: " + data.tracks.items[i].preview_url);
-      console.log(spotifyOutput);
-      fs.appendFile("log.txt", spotifyOutput, function(err) {
-        // If the code experiences any errors it will log the error to the console.
+    spotify.search({ type: 'track', query: itemName }, function(err, data) {
+       console.log("Hi " + itemName);
         if (err) {
-          return console.log(err);
+            console.log('Error occurred: ' + err);
+        } else {
+            if (!data.tracks.items.length) {
+                console.log('not found')
+            }
+            for(var i=0; i < data.tracks.items.length; i++){
+                console.log("--------------------------------------------");
+                console.log("Track Name: " + data.tracks.items[i].name); 
+                console.log("Artist: " + data.tracks.items[i].artists[0].name); 
+                console.log("Album: " + data.tracks.items[i].album.name); 
+                console.log("Preview Link: " + data.tracks.items[i].href); 6 
+            }
         }
-      });   
-    }
-    if (source === "do-this") {
-      mainMenu();
-    } else {
-    spotifyMenu();
-    }
-  })
+    });
 }
+
+
+
+
+
+
+
+
+// function spotifyResults(song) {
+//   console.log(song);
+//   spotify.search({type: 'track', query: song}, function(err, data) {
+//     if(err) {
+//       console.log("Error occurred: " + err);
+//       return;
+//     };
+    
+//     var results = data.tracks.items.length;
+//     fs.appendFile("log.txt", "\n\nlog date: " + Date.now() + "\n", function(err) {
+//       // If the code experiences any errors it will log the error to the console.
+//       if (err) {
+//         return console.log(err);
+//       }
+//     });  
+//     for (var i=-0; i<results; i++) {
+//       var spotifyOutput = "\n\nartist: " + data.tracks.items[i].album.artists[0].name +
+//       "\nalbum: " + data.tracks.items[i].album.name +
+//       "\ntrack: " + console.log("track: " + data.tracks.items[i].name + 
+//       "\npreview: " + data.tracks.items[i].preview_url);
+//       console.log(spotifyOutput);
+//       fs.appendFile("log.txt", spotifyOutput, function(err) {
+//         // If the code experiences any errors it will log the error to the console.
+//         if (err) {
+//           return console.log(err);
+//         }
+//       });   
+//     };
+//     if (source === "do-this") {
+//       mainMenu();
+//     } else {
+//     spotifyMenu();
+//     };
+//   });
+// };
 
 
 
@@ -229,7 +262,6 @@ function movieResults(movie) {
 
       console.log(movieOutput);
       fs.appendFile("log.txt", "\n\nlog date: " + Date.now() + "\n" + movieOutput, function(err) {
-        // If the code experiences any errors it will log the error to the console.
         if (err) {
           return console.log(err);
         }

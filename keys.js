@@ -8,7 +8,7 @@ exports.twitterKeys = {
   access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
 };
 
-exports.spotify = {
+exports.spotifyKeys= {
   id: process.env.SPOTIFY_ID,
   secret: process.env.SPOTIFY_SECRET
 };
